@@ -13,9 +13,9 @@ train.csv includes 80% of the original data with labels. test.csv contains 20% o
 original data without labels. You will use test.csv to make predictions for submission.	
 
 ## Codebook: 
-• limit_bal: Amount of the given credit in dollars: it includes both the individual
-consumer credit and his/her family (supplementary) credit.
-• sex: Gender (1 = male; 2 = female).
+• limit_bal: Amount of the given credit in dollars: it includes both the individual\
+consumer credit and his/her family (supplementary) credit.\
+• sex: Gender (1 = male; 2 = female).\
 • education: Education (1 = graduate school; 2 = university; 3 = high school; 4 =
 others).
 • marriage: Marital status (1 = married; 2 = single; 3 = others).
